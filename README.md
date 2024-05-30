@@ -14,7 +14,7 @@
 
 ## Examples of PaRO
 
-[demo](examples/paro/run.sh)
+[demo](examples/paro/llama/run.sh)
 
 ```json
 {

@@ -50,9 +50,6 @@ class ParoINGOptimizer(ZeROOptimizer):
     DeepSpeedZeroOptimizer designed to reduce the memory footprint
     required for training large deep learning models.
 
-    For more details please see PaRO: Rethinking Memory and Communication Cost for Efficient Large Language Model Training
-    https://arxiv.org/abs/2310.06003
-
     For usage examples, refer to TODO: DeepSpeed Tutorial
     1. params: intra-node sharding, inter-node replica
     2. grads: no sharding
